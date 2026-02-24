@@ -1,2 +1,41 @@
 # 6-step-data-quality-method
-This practical 6-step method shows you how to investigate data quality efficiently and rigorously. It will save you time, reduce re-work, and improve your analysis results and modelling.
+Consider these three facts:
+- There are more than 100 ways in which data can be of “low”' quality
+- Data preparation (which includes data quality checks) often takes more than half of a data science project’s time
+- Few data scientists or analysts have had much training in data quality.
+
+This practical 6-step method enables you to investigate data quality efficiently and rigorously. It will:
+- Save you time, by defining a set of tasks and giving you questions to ask about your data
+- Reduce cost by avoiding re-work
+- Improve your results, by enabling you to
+  - Correct any mis-held assumptions
+  - Understand any limitations of your data
+  - Improve your data so it is a more valuable asset
+
+The original version of this method was published as A Practical Guide to Characterising Data and Investigating Data Quality (2024) by Roy Ruddle, James Cheshire and Sarah Johansson Fernstad (https://doi.org/10.5518/1481), under the CC BY 4.0 licence.
+
+This github repository contains the most up to date version of the method, which is now called The 6 Step Data Quality Method. It has been improved with input from practitioners and comments from participants in the training courses we run.
+&copy; 2026. This work is openly licensed via CC BY 4.0.
+
+## The 6 steps
+The method is divided into six steps that will help you to identify whether there are any issues with your data, and remedy them as early as possible. The steps are:
+1.	Look at your data (is anything obviously wrong or missing?).
+2.	Watch out for special values (e.g., indicating a missing or invalid value; you will need to flag them as missing, etc. before proceeding to the next step).
+3.	Is any data missing (is it safe to proceed or do you need more data?)?
+4.	Check each variable (is it what you expect?).
+5.	Check combinations of variables (do they violate any of your assumptions or business rules?).
+6.	Characterise the cleaned data.
+
+We also provide a checklist (a spreadsheet) that lists the tasks for each step. The tasks are described below and articulated as questions for you to answer about your data.
+
+## Tasks
+You may approach investigations from two complementary perspectives: establishing the characteristics of your data and assessing its quality. For example, you may wish to determine how the number of records varies with time (data characterisation) or check whether records are missing from a given time-period (data quality). Similarly, you may calculate the distribution of data (characterisation) or determine if outlying values are implausibly high/low (quality).
+
+### Characterisation tasks
+TBD
+
+### Data quality tasks
+TBD 
+
+### What, Why, How, When?
+TBD
