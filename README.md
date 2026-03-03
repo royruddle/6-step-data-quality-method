@@ -20,7 +20,7 @@ This github repository contains the most up to date version of the method, which
 
 ## The 6 steps
 The method is divided into six steps that will help you to identify whether there are any issues with your data, and remedy them as early as possible. The steps are:
-1.	Look at your data (is anything obviously wrong or missing?).
+1.	Is anything obviously wrong (look at your data and any documentation)?
 2.	Watch out for special values (e.g., indicating a missing or invalid value; you will need to flag them as missing, etc. before proceeding to the next step).
 3.	Is any data missing (is it safe to proceed or do you need more data?)?
 4.	Check each variable (is it what you expect?).
