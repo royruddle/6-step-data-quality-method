@@ -14,7 +14,7 @@ This practical 6-step method enables you to investigate data quality efficiently
 
 The original version of this method was published as A Practical Guide to Characterising Data and Investigating Data Quality (2024) by Roy Ruddle, James Cheshire and Sarah Johansson Fernstad (https://doi.org/10.5518/1481), under the CC BY 4.0 licence.
 
-This github repository contains the most up to date version of the method, which is now called *The 6 Step Data Quality Method*. It has been improved with input from practitioners and comments from participants in the training courses we run.
+This github repository contains the most up to date version of the method, which is now called *The 6-Step Data Quality Method*. It has been improved with input from practitioners and comments from participants in the training courses we run.
 
 &copy; 2026. This work is openly licensed via CC BY 4.0.
 
