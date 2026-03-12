@@ -32,4 +32,4 @@ You may approach investigations from two complementary perspectives: establishin
 
 The 6-step method contains 69 tasks, which will enable you to perform those investigations efficiently and rigorously. The tasks are articulated as questions for you to answer about your data:
 - Document containing the [Tasks and Questions](https://github.com/royruddle/6-step-data-quality-method/blob/main/downloads/tasks_and_questions.pdf).
-- Checklist of the the tasks for each step in [Excel](https://github.com/royruddle/6-step-data-quality-method/blob/main/downloads/tasks_checklist.xlsx) and [OpenDocument Spreadsheet](https://github.com/royruddle/6-step-data-quality-method/blob/main/downloads/tasks_checklist.ods) format.
+- Checklist of the the tasks for each step (Excel and OpenDocument Spreadsheetformats). To download them, go to [downloads](https://github.com/royruddle/6-step-data-quality-method/blob/main/downloads), click on the file and then click "view raw".
