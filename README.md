@@ -25,13 +25,11 @@ The method is divided into six steps that will help you to identify whether ther
 3.	Is any data missing (is it safe to proceed or do you need more data?)?
 4.	Check each variable (is it what you expect?).
 5.	Check combinations of variables (do they violate any of your assumptions or business rules?).
-6.	Characterise the cleaned data.
+6.	Profile the cleaned data.
 
 ## Tasks
 You may approach investigations from two complementary perspectives: establishing the characteristics of your data and assessing its quality. For example, you may wish to determine how the number of records varies with time (data characterisation) or check whether records are missing from a given time-period (data quality). Similarly, you may calculate the distribution of data (characterisation) or determine if outlying values are implausibly high/low (quality).
 
-The 6-step method contains 69 tasks, which will enable you to perform those investigations efficiently and rigorously. The tasks are articulated as questions for you to answer about your data (see [Tasks and Questions](https://github.com/royruddle/6-step-data-quality-method/downloads/tasks_and_questions.pdf)).
-We also provide a [checklist](https://github.com/royruddle/6-step-data-quality-method/downloads/tasks_checklist.xlsx) (a spreadsheet) that lists the tasks for each step. 
-
-### What, Why, How, When?
-TBD
+The 6-step method contains 69 tasks, which will enable you to perform those investigations efficiently and rigorously. The tasks are articulated as questions for you to answer about your data:
+- [Tasks and Questions](https://github.com/royruddle/6-step-data-quality-method/downloads/tasks_and_questions.pdf)).
+- Checklist of the the tasks for each step in [Excel](https://github.com/royruddle/6-step-data-quality-method/downloads/tasks_checklist.xlsx) and [OpenDocument Spreadsheet](https://github.com/royruddle/6-step-data-quality-method/downloads/tasks_checklist.ods) format.
