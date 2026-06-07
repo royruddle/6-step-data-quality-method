@@ -40,6 +40,6 @@ You can use any software to perform the 6-step method (e.g., Python, R, SQL, dat
 ## How to Cite
 If you use this method in your research, please cite it as follows:
 
-Ruddle, R. A. (2026). The 6-step Data Quality Method (2nd edition). AVailable from Ruddle, R. A. (2026). Available from https://github.com/royruddle/6-step-data-quality-method (DOI: 10.5281/zenodo.20578862).
+Ruddle, R. A. (2026). The 6-step Data Quality Method (2nd edition). Available from https://github.com/royruddle/6-step-data-quality-method (DOI: 10.5281/zenodo.20578862).
 
 You can also click the **"Cite this repository"** button at the top right of the GitHub sidebar to get APA or BibTeX formats directly.
