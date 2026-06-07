@@ -1,4 +1,4 @@
-# 6-step-data-quality-method
+# 6-step-data-quality-method ![DOI: 10.5281/zenodo.20578862](https://github.com/royruddle/6-step-data-quality-method/blob/main/images/zenodo.20578862.svg)
 Consider these three facts:
 1. There are more than 100 ways in which data can be of “low”' quality
 2. Data preparation (which includes data quality checks) often takes more than half of a data science project’s time
