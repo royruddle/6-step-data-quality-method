@@ -36,3 +36,10 @@ The 6-step method contains 69 tasks, which will enable you to perform those inve
 
 ## Implementation
 You can use any software to perform the 6-step method (e.g., Python, R, SQL, data profiling tools or even spreadsheets). The Python [vizdataquality](https://pypi.org/project/vizdataquality/) package contains an example implementation, with the six Jupyter Notebooks (one for each step) that were used in the above YouTube videos.
+
+## How to Cite
+If you use this project in your research, please cite it using the following metadata:
+
+[![Cite with CITATION.cff](https://shields.io)](https://github.com/citation-file-format/citation-file-format)
+
+You can also click the **"Cite this repository"** button at the top right of the GitHub sidebar to get APA or BibTeX formats directly.
