@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: The 6-step Data Quality Method (2nd edition)
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Roy A
+    family-names: Ruddle
+    affiliation: University of Leeds
+    orcid: 'https://orcid.org/0000-0001-8662-8103'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20578862
+repository-code: 'https://github.com/royruddle/6-step-data-quality-method'
+abstract: >-
+  This 6-step method lets you investigate the quality of
+  your data efficiently, rigorously, and reproducibly. The
+  benefits include: (1) being able to do more in less time,
+  because the method tells you what to do, (2) reducing cost
+  because we have grouped data quality checks into a
+  carefully thought out order, and (3) letting you get
+  better results because by following the method, you will
+  understand limitations of your data, correct mis-held
+  assumptions, and be able to clean your data as you
+  progress through the six steps.
+keywords:
+  - Data quality
+  - Data science
+  - Data profiling
+  - Data analytics
+  - Workflow
+license: CC-BY-4.0
+commit: 'Edition: 2nd'
+version: '2.0'
+date-released: '2026-06-07'
